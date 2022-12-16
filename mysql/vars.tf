@@ -1,6 +1,6 @@
 
 
-variable "aws_region" {
+variable "region" {
   description = "The AWS region to deploy to (e.g. us-east-1)"
   type        = string
 }
